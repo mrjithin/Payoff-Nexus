@@ -1,3 +1,6 @@
+Roll No: 240497
+NAME: Jithin J Joshi
+
 # Payoff Nexus - Project Report
 
 This project implements a hybrid option pricing model combining the Cox-Ross-Rubinstein (CRR) binomial tree with game theory concepts. Using Apple Inc. (AAPL) historical data from 2022, we price a 1-year European call option by modeling the interaction between option holders and writers as a zero-sum game solved via linear programming at each lattice node. The Nash equilibrium strategy enriches classical risk-neutral pricing by incorporating strategic behavior.
